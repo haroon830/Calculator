@@ -1,0 +1,124 @@
+.Calculator {
+  background-color: rgb(29, 27, 27);
+  width: 80px;
+  height: 80px;
+  font-size: 20px;
+  color: hsl(0, 0%, 100%);
+}
+
+.mainPage {
+  display: flex;
+  min-height: 100px;
+  padding: 180px 400px;
+  background-color: black;
+}
+
+.main {
+  outline-style: none;
+}
+
+.operators {
+  background-color: gray;
+  width: 80px;
+  height: 80px;
+  font-size: 20px;
+  color: hsl(0, 0%, 100%);
+}
+
+.operators {
+  color: white;
+  background-color: rgb(49, 51, 51);
+}
+.ce {
+  background-color: #fc5d76;
+}
+.label {
+  display: block;
+  justify-content: right;
+  background-color: rgb(39, 37, 37);
+  color: hsl(0, 3%, 56%);
+  height: 42px;
+  width: 320px;
+  font-size: 25px;
+  text-align: right;
+}
+
+.Calculator:hover {
+  background-color: rgb(77, 73, 73);
+}
+
+.operators:hover {
+  background-color: rgb(77, 73, 73);
+}
+
+.textarea {
+  text-align: right;
+  font-size: 24px;
+  color: white;
+  background-color: rgb(39, 37, 37);
+}
+
+.txt {
+  justify-content: right;
+  text-align: right;
+  font-size: 30px;
+
+}
+
+.text {
+  display: block;
+  justify-content: right;
+  text-align: right;
+  height: 45px;
+  width: 320px;
+  background-color: rgb(39, 37, 37);
+  color: white;
+}
+
+
+
+
+
+.History {
+  display: block;
+  background-color: white;
+  margin-left: 20px;
+  background-color: rgb(49, 48, 48);
+  text-align: right;
+}
+
+.hisdiv {
+  background-color: black;
+  color: rgb(247, 244, 240);
+  text-align: center;
+}
+
+.clear {
+  display: block;
+  background-color: rgb(3, 3, 3);
+  color: rgb(247, 244, 240);
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.clear:hover {
+  background-color: rgb(77, 73, 73);
+}
+
+.backspace{
+  display: block;
+  justify-content: right;
+  background-color: black;
+  color: aliceblue;
+  text-align: right;
+  background-color: rgb(39, 37, 37);
+
+}
+
+
+.back{
+  background-color: black;
+}
+
