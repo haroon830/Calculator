@@ -1,13 +1,6 @@
 # Calculator
 
-A basic Calculator with five functions for addition, subtraction, division, modulo and multiplication.
 
-# Preview
+A basic Calculator in React.js with  basic operation e.g: Multiplication, Addition, Subtraction, Division, Modulus.
 
-  * [Calculator](http://about.phamvanlam.com/calculator/)
 
-# Visit me
-
-  * [Portfolio](http://about.phamvanlam.com)
-  * [Blog Complete JavaScript](https://completejavascript.com)
-  * [Codepen](https://codepen.io/completejavascript)
